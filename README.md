@@ -1,1 +1,3 @@
-codejam practise problem solution 
+Competitive Programming
+
+Repository of all the solved problems
