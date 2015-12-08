@@ -1,3 +1,3 @@
 Competitive Programming
 
-Repository of all the solved problems
+Repository of some of the solved problems
